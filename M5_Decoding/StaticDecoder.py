@@ -1,5 +1,5 @@
 import sys
-sys.path.append("../../../public/M2_Speech_Signal_Processing")
+sys.path.append("../M2_Speech_Signal_Processing")
 import os.path
 import cntk
 import numpy as np
